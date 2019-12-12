@@ -9,3 +9,6 @@
 > PIL (optional)
 > TensorFlow 
 > Keras. 
+
+
+#### A detailed artice on [LinkedIn](https://www.linkedin.com/pulse/gender-detection-using-cnn-saicharan-shakati)
